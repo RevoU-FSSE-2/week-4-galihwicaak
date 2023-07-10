@@ -216,4 +216,28 @@ nav ul li a {
         -webkit-transform: translateY(-8px) rotate(-45deg);
         transform: translateY(-8px) rotate(-45deg);
     }
+    
+    .about-left {
+        display: flex;
+        flex-direction: column;
+    }
+    .img-about {
+        margin-left: 198px;
+        width: 50%;
+        height: auto;
+    }
+    .about-right {
+        padding-bottom: 67%;
+        padding-right: 0;
+    }
+
+    #diskografi .grid-container img {
+        margin-left: 24%;
+        width: 50%;
+        height: auto;
+    }
+    .grid-container {
+        display: block;
+    }
+    
 }

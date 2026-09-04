@@ -309,13 +309,6 @@ p {
 
 /* ===== MOBILE: <= 768px ===== */
 @media only screen and (max-width: 768px) {
-    .bg-video {
-        display: none;
-    }
-    .hero {
-        background: #0c0333 url('img/hero-fallback.jpg') center/cover no-repeat;
-    }
-
     .nav-menu {
         position: fixed;
         left: -100%;
